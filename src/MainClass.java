@@ -4,4 +4,6 @@ public class MainClass {
     }
 
     //Коммит хуйни
+
+    //Второй коммит
 }
