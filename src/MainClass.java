@@ -3,9 +3,5 @@ public class MainClass {
         System.out.println("Hello World");
     }
 
-    @Override
-    public String toString() {
-        return null;
-
-    }
+    //Коммит хуйни
 }
